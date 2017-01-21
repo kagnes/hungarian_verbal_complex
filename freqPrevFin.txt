@@ -1935,7 +1935,6 @@
 951 ki+pihen
 949 össze+zavar
 949 meg+fejt
-949 ki+tetszik
 949 be+bújik
 948 újjá+születik
 948 meg+terem
@@ -3551,7 +3550,6 @@
 375 meg+ismételhet
 375 el+híresül
 375 át+játszik
-374 oda+hagy
 374 meg+vezet
 374 meg+sejt
 374 fel+szánt
@@ -4019,7 +4017,6 @@
 302 meg+béníthat
 301 vissza+léphet
 301 meg+válthat
-301 ki+tud
 301 hozzá+vág
 301 el+pazarol
 300 vissza+lök
@@ -4076,7 +4073,6 @@
 293 ki+kászálódik
 293 helyre+állhat
 293 félre+vonul
-293 el+tud
 293 el+pusztíthat
 293 el+lazít
 293 el+hány
@@ -5392,7 +5388,6 @@
 175 tovább+adhat
 175 rá+épít
 175 ott+hagyhat
-175 le+van
 175 le+telepít
 175 ki+kövezik
 175 haza+zavar
@@ -6287,7 +6282,6 @@
 130 meg+puhít
 130 meg+fogalmazódhat
 130 meg+edződik
-130 meg+akar
 130 le+sül
 130 le+kérhet
 130 le+jön|jő
@@ -6405,7 +6399,6 @@
 125 föl+zabál
 125 fel+izgul
 125 fel+fúvódik
-125 be+van
 125 be+pörög
 124 vissza+vihet
 124 vissza+kiált
@@ -7216,7 +7209,6 @@
 97 vissza+juthat
 97 vissza+jövet
 97 túl+licitál
-97 tele+van
 97 össze+vonhat
 97 össze+rogy
 97 oda+ballag
@@ -7541,7 +7533,6 @@
 89 elő+jegyez
 89 el+mélyíthet
 89 el+bénázik
-89 el+akar
 89 el+ábrándozik
 89 be+próbálkozik
 89 be+piszkít
@@ -9314,7 +9305,6 @@
 55 fenn+akadhat
 55 felül+becsül
 55 fel+ugorhat
-55 fel+tud
 55 fel+oldódhat
 55 fel+nyomul
 55 fel+lelkesedik
@@ -9387,7 +9377,6 @@
 54 ki+fűz
 54 ki+csumázik
 54 ki+bocsájt
-54 ki+akar
 54 hozzá+tartozhat
 54 hozzá+olvas
 54 haza+sétál
@@ -9872,7 +9861,6 @@
 48 le+hazugozik
 48 körül+sétál
 48 ki+toloncolhat
-48 ki+lehet
 48 ki+int
 48 ki+formálódik
 48 ki+abálhat
@@ -10477,7 +10465,6 @@
 42 föl+szakít
 42 föl+lelkesít
 42 fel+töret
-42 fel+tetszik
 42 fel+tetet
 42 fel+szedelőzködik
 42 fel+ijed
@@ -10488,7 +10475,6 @@
 42 el+rettent|rettentet
 42 el+perel
 42 el+parancsol
-42 elő+talál
 42 el+oszol|oszlik
 42 elő+rukkolhat
 42 elő+ráncigál
@@ -11337,7 +11323,6 @@
 35 föl+ível
 35 fel+zörget
 35 fel+világosíthat
-35 fel+van
 35 fel+nagyítódik
 35 fel+értékelhet
 35 fel+bámul
@@ -12068,7 +12053,6 @@
 30 rá+hunyorít
 30 rá+hárít
 30 rá+csatol
-30 ott+fog
 30 össze+piszkol
 30 össze+lapátol
 30 oda+vonul
@@ -12417,7 +12401,6 @@
 29 át+bogarászik
 29 alá+önt
 28 vissza+zeng
-28 vissza+van
 28 vissza+öltözik
 28 vissza+nyúlhat
 28 vissza+nyújt
@@ -12881,7 +12864,6 @@
 26 le+görnyed
 26 le+csillapíthat
 26 le+bomol|bomlik
-26 le+akar
 26 körül+nő
 26 kölcsön+kérhet
 26 ki+vitat
@@ -13126,7 +13108,6 @@
 25 haza+engedhet
 25 hátra+tolat
 25 hátra+rúg
-25 föl+tetszik
 25 föl+mordul
 25 föl+magasodik
 25 föl+léptet
@@ -13207,7 +13188,6 @@
 25 be+cselezik
 25 be+botlik
 25 be+áramolhat
-25 be+akar
 25 át+vánszorog
 25 át+szerkeszthet
 25 át+sodor
@@ -14098,7 +14078,6 @@
 21 le+síel
 21 le+romolhat
 21 le+piszkál
-21 le+lehet
 21 le+kőrözik
 21 le+hajigál
 21 le+gyengíthet
@@ -14440,7 +14419,6 @@
 20 föl+boncol
 20 föl+bolydul
 20 föl+biztat
-20 fenn+van
 20 fel+vonyít
 20 fel+világosodik
 20 fel+vidíthat
@@ -14570,7 +14548,6 @@
 20 alá+fut
 20 agyon+nyer
 20 agyon+használ
-19 vissza+tud
 19 vissza+tanul
 19 vissza+szoktat
 19 vissza+siklik
@@ -14624,7 +14601,6 @@
 19 rá+kényszeríttet
 19 rá+kenhet
 19 rajta+veszik
-19 össze+tud
 19 össze+tehet
 19 össze+rombol
 19 össze+lő
@@ -14841,7 +14817,6 @@
 19 be+tömörül
 19 be+tartatik
 19 be+szervezhet
-19 be+szeret
 19 be+rögződik
 19 be+pöröl
 19 be+magoltat
@@ -15194,7 +15169,6 @@
 18 bele+zúdít
 18 bele+vegyít
 18 belé+vág
-18 bele+tud
 18 bele+szerkeszt
 18 bele+száguld
 18 bele+szaggat
@@ -15710,7 +15684,6 @@
 16 oda+pislant
 16 oda+pingál
 16 oda-oda+néz
-16 oda+lehet
 16 oda+hurcol
 16 oda+hí|hív
 16 oda+csuk
@@ -15848,7 +15821,6 @@
 16 hozzá+tartózik
 16 hozzá+illik
 16 haza+zsuppol
-16 haza+szeret
 16 haza+bandukol
 16 hátra+támaszt
 16 föl+visít
@@ -15901,7 +15873,6 @@
 16 fel+cserélődhet
 16 fel+csatolhat
 16 fel+csatlakozhat
-16 fel+akar
 16 el+vitatkozgathat
 16 el+villamosozik
 16 el+vetélhet
@@ -16044,7 +16015,6 @@
 15 vissza+csábíthat
 15 vissza+cammog
 15 vissza+autózik
-15 vissza+akar
 15 vissza+ajándékozik
 15 végig+zarándokol
 15 végig+vitatkozik
@@ -16902,7 +16872,6 @@
 14 be+rogy
 14 be+roggyan
 14 be+riaszt
-14 benn+van
 14 be+nézeget
 14 be+népesülhet
 14 be+mosódik
@@ -17310,7 +17279,6 @@
 13 fel+mustrál
 13 fel+mérgel
 13 fel+málházik
-13 fel+lehet
 13 fel+kurblizik
 13 fel+költöztet
 13 fel+kocog
@@ -17773,7 +17741,6 @@
 12 le+áshat
 12 le+alkonyul
 12 külön+vonul
-12 körül+van
 12 körül+lövöldöz
 12 körül+les
 12 körül+járat
@@ -17901,7 +17868,6 @@
 12 felül+emel
 12 fel+szorul
 12 fel+szorít
-12 fel+szeret
 12 fel+süvít
 12 fel+sikkant
 12 félre+pillant
@@ -18822,7 +18788,6 @@
 11 át+görög
 11 át+bulizik
 11 át-át+suhan
-11 át+akar
 11 alul+képvisel
 11 által+lép
 11 alá+kap
@@ -18934,7 +18899,6 @@
 10 széjjel+foszlik
 10 rá+zúg
 10 rá+zsúfol
-10 rá+tud
 10 rá+tetovál
 10 rá+tetéz
 10 rá+tervez
@@ -19122,7 +19086,6 @@
 10 le+tépet
 10 le+szűkülhet
 10 le+szippant
-10 le+szeret
 10 le+szarhat
 10 le+sodródhat
 10 le+reped
@@ -19522,7 +19485,6 @@
 10 belé+mar
 10 bele+ltározik
 10 bele+lövöldöz
-10 bele+lehet
 10 bele+kanalaz
 10 bele+kacag
 10 be+lejt
@@ -19725,7 +19687,6 @@
 9 túl+szervez
 9 túl+szerepel
 9 túl+fordul
-9 túl+fél
 9 túl+épít
 9 túl+dolgozik
 9 túl+alszik
@@ -21687,7 +21648,6 @@
 8 alá+ránt
 8 alá+pillant
 8 alá+merítkezik
-8 alá+hagy
 8 alá+dug
 8 alá+csúsztat
 8 alá+bocsátkozik
@@ -21909,7 +21869,6 @@
 7 rá+kiálthat
 7 rá+képzel
 7 rá+karikázik
-7 rajta+fog
 7 rajta+felejt
 7 rá+jő
 7 rá+írathat
@@ -22321,7 +22280,6 @@
 7 ki+ugrándozik
 7 ki+tunkol
 7 ki+tudódhat
-7 ki+tudhat
 7 ki+trükközik
 7 ki+totózik
 7 ki+tömhet
@@ -22724,7 +22682,6 @@
 7 elő+idéződik
 7 elő+huzakodik
 7 elő+hűt
-7 elő+hagy
 7 elő+gomolyog
 7 elő+furakszik
 7 elő+fehérlik
@@ -22889,7 +22846,6 @@
 7 be+ölel
 7 be+ojt
 7 be+nyomat
-7 benn+fog
 7 be+műt
 7 be+mozog
 7 be+mozdulhat
@@ -23039,7 +22995,6 @@
 7 át+lopózik
 7 át+lépet
 7 át+lelkesül
-7 át+lehet
 7 át+lavírozik
 7 át+lapolódik
 7 át+költözködik
@@ -23262,7 +23217,6 @@
 6 túl+mozog
 6 túl+mér
 6 túl+lőhet
-6 túl+lehet
 6 túl+lapoz
 6 túl+iszik
 6 túl+hitelezik
@@ -23404,7 +23358,6 @@
 6 rá+montíroz
 6 rá+mérhet
 6 rá+másolhat
-6 rá+lehet
 6 rá+köszönhet
 6 rá+kér
 6 rajta+ér
@@ -23428,7 +23381,6 @@
 6 rá+bogozik
 6 rá+biccent
 6 rá+beszéltet
-6 rá+akar
 6 rá+adhat
 6 ott+-terem
 6 össze+zúzat
@@ -23436,7 +23388,6 @@
 6 össze+verekedhet
 6 össze+varrogat
 6 össze+varrhat
-6 össze+van
 6 össze+toldoz
 6 össze+tereltet
 6 össze+tapadhat
@@ -24083,7 +24034,6 @@
 6 ide+kapar
 6 ide+kacsint
 6 ide+hívat
-6 ide+hagy
 6 ide+folyik
 6 ide+firkant
 6 ide+fénylik
@@ -24334,7 +24284,6 @@
 6 el+tököl
 6 el+tiportat
 6 el+tiltatik
-6 el+tetszik
 6 el+terelődhet
 6 el+tépődik
 6 el+tenget
@@ -24413,7 +24362,6 @@
 6 elő+gurul
 6 elő+gurít
 6 elő+gördül
-6 elő+fog
 6 elő+emészt
 6 elő-elő+szed
 6 elő+él
@@ -24925,7 +24873,6 @@
 5 vissza+libben
 5 vissza+léptethet
 5 vissza+lépdel
-5 vissza+lehet
 5 vissza+lebeg
 5 vissza+kunyerál
 5 vissza+kukkant
@@ -25336,7 +25283,6 @@
 5 össze+maszatolhat
 5 össze+lottyad
 5 össze+lök
-5 össze+lehet
 5 össze+lát
 5 össze+körmöl
 5 össze+kavarhat
@@ -25355,7 +25301,6 @@
 5 össze+fogdoshat
 5 össze+fogazódik
 5 össze+feszül
-5 össze+fél
 5 össze+dörzsölődik
 5 össze+dolgozhat
 5 össze+dobol
@@ -25931,7 +25876,6 @@
 5 ki+tisztázódik
 5 ki+tiltatik
 5 ki+tettet
-5 ki+tetszik|tetszet
 5 ki+tesztel
 5 ki+tervelhet
 5 ki+térül
@@ -26167,7 +26111,6 @@
 5 hozzá+oson
 5 hozzá+lop
 5 hozzá+lök
-5 hozzá+lehet
 5 hozzá+küld
 5 hozzá+komponál
 5 hozzá+idomulhat
