@@ -1,21 +1,21 @@
-# A magyar igei komplexumok vizsgálata
-## Mesterszakos szakdolgozat
+# Hungarian verbal complexes
+## MA thesis
 
-A dolgozat elsősorban az igekötős igékkel foglalkozik. Főbb témák:
-- Milyen pozíciókban lehetnek az (elvált) igekötők a finit igéhez képest, és mi ennek az oka?
-- Vannak-e a pozíciók szempontjából rendszerszerű különbségek az egyes igekötők között?
-- Milyen szavak (és milyen gyakran) állhatnak az igekötő és a finit ige között?
-- Melyik igéknek lehet több tucat igekötője, és melyikeknek csak egy-kettő?
-- Melyik igék állnak gyakrabban posztverbális, mint preverbális igekötővel? (pl. *dolgoz fel*, *tevődik össze*)
+The thesis deals mainly with particle verbs. The most important research questions are as follows:
+- What is the distribution of (detached) verbal particles compared to the finite verbs, and what can be the main factor determining the distance of the verbal particle?
+- Can we find regular differences between the verbal particles, regarding to their positions in the sentence?
+- What kind of words can stand between the verbal particle and the finite verb?
+- What kind of verbs can have dozens of verbal particles, and what kind of verbs can have only one or two?
+- What kind of verbs do usually have postverbal particles (e.g. *dolgoz fel* 'to process', *tevődik össze* 'to be composed of smth'), rather than preverbal ones?
 
-Érintőlegesen szó van még a puszta névszói igemódosítók két típusáról: a személyragos főnévi igenevekről és a dativuszi végződésű melléknevekről.
+Two types of bare nominals (which are verb modifiers just like the verbal particles) are briefly discussed in this work: (1) infinitives having inflection for person and (2) adjectives ending with dative case.
 
 ## freqPrevFin.txt
 
-Ez a lista a Magyar Nemzeti Szövegtár 2.0.3 verziója alapján készült. 5-nél gyakoribb típusszámú igekötő+ige kombinációkat tartalmaz (a mérésben csak finit igék szerepeltek, és csak közvetlenül preverbális igekötővel). Átnézett. Gyakori, hibás kombinációk (pl. *át+kell*) kidobálva.
+This list is based on the 2.0.3 version of the Hungarian Gigaword Corpus. It contains _verbal particle + verb_ combinations occurring at least 5 times in HGC (as types). The measurement includes only finite verbs and only with immediately preverbal particle. It is checked manually. Frequent, wrong combinations (e.g. *át+kell* 'to through+must') are filtered.
 
-## Linkek
+## Reference
 
-- [Magyar Nemzeti Szövegtár 2](http://clara.nytud.hu/mnsz2-dev/)
-- Oravecz Csaba – Váradi Tamás – Sass Bálint (2014):
+- [Hungarian Gigaword Corpus](http://clara.nytud.hu/mnsz2-dev/)
+- Oravecz, Csaba – Váradi, Tamás – Sass, Bálint (2014):
 [The Hungarian Gigaword Corpus.](http://www.lrec-conf.org/proceedings/lrec2014/pdf/681_Paper.pdf) In: Proceedings of LREC 2014. Reykjavík. 1719–1723.
