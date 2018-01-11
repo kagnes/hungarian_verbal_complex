@@ -561,7 +561,7 @@
 4704 meg+nevez
 4699 ki+hal
 4698 ki+nyílik
-4698 felül+
+4698 fel+ül
 4685 végig+néz
 4683 fel+gyorsul
 4674 ki+elégít
@@ -1131,7 +1131,6 @@
 2010 ki+dől
 2007 le+visz
 2005 fel+kelt
-2003 meg+**szüntet
 2001 rá+kényszerít
 2000 végig+olvas
 1994 ki+vet
@@ -2291,7 +2290,7 @@
 756 meg+riad
 755 össze+mosódik
 755 le+köszön
-754 fölül+
+754 föl+ül
 753 fel+halmoz
 752 szét+törik
 752 össze+érik
@@ -4142,6 +4141,7 @@
 284 meg+dőlhet
 284 el+harap
 284 bele+szúr
+284 fel+ültet
 284 át+lő
 283 ki+herél
 283 fel+bolydul
@@ -5554,7 +5554,7 @@
 166 ki+baszik
 166 ide+jön|jő
 166 haza+telefonál
-166 felül+het
+166 fel+ülhet
 166 el+startol
 166 előre+küld
 166 be+fest
@@ -5661,7 +5661,6 @@
 160 le+tartoztat
 160 külön+nyomat
 160 ki+agyal
-160 felül+tesz|tet
 160 fel+bőszül
 160 fel+boncol
 160 el+röhög
@@ -6412,7 +6411,6 @@
 124 ki+húzat
 124 ki+csalogat
 124 föl+izgat
-124 fel+ültet
 124 fel+íratik
 124 fel+dagad
 124 el+vállalhat
@@ -7697,7 +7695,6 @@
 85 el+kísérel
 85 be+zsúfol
 85 be+takarózik
-85 be+**szüntet
 85 bele+vegyül
 85 át+lök
 85 át+küzd
@@ -11262,7 +11259,6 @@
 35 össze+mar
 35 össze+koldul
 35 meg+vacsoráztat
-35 meg+**szűntethet
 35 meg+sebesíthet
 35 meg+ruházik
 35 meg+reng
@@ -13607,7 +13603,7 @@
 23 hátra+vágódik
 23 hátra+kiált
 23 föl+zúdul
-23 fölül+tet
+23 föl+ültet
 23 föl+tisztul
 23 föl+serken
 23 föl+olvaszt
@@ -15427,7 +15423,7 @@
 17 fönn+állhat
 17 föl+vidul
 17 föl+vásárolhat
-17 fölül+het
+17 föl+ülhet
 17 föl+tündököl
 17 föl+szivárog
 17 föl+szerelkezik
@@ -19406,7 +19402,6 @@
 10 el+fogadódik
 10 el+fészkel
 10 el+eszeget
-10 el+**emilezik
 10 el-el+töpreng
 10 el-el+ragad
 10 el-el+mereng
@@ -23382,7 +23377,6 @@
 6 rá+biccent
 6 rá+beszéltet
 6 rá+adhat
-6 ott+-terem
 6 össze+zúzat
 6 össze+villant
 6 össze+verekedhet
