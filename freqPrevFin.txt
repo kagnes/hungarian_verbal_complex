@@ -12006,7 +12006,6 @@
 31 be+mattol
 31 bele+vetít
 31 bele+szagolhat
-31 bele+het
 31 bele+akaszt
 31 be+láttat
 31 be+látszik
@@ -16637,7 +16636,6 @@
 14 le+nyaklik
 14 le+mázsál
 14 le+kattan
-14 le+hetel
 14 le+hajolhat
 14 le+görög
 14 le+görbed
