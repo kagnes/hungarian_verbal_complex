@@ -5134,7 +5134,6 @@
 192 fel+emelhet
 192 fel+bonthat
 192 benn+ragad
-192 be+kezd
 192 be+kéredzkedik
 192 be+helyettesít
 192 át+sodródik
@@ -5607,7 +5606,6 @@
 163 oda+ígér
 163 meg+építhet
 163 meg+csókolhat
-163 meg+bír
 163 ki+véreztet
 163 ki+rukkol
 163 ki+jövet
@@ -22449,7 +22447,6 @@
 7 föl+nyihog
 7 föl+morran
 7 föl+minősít
-7 föl+mer
 7 föl+mar
 7 föl+lobogózik
 7 föl-le+jár
@@ -26348,7 +26345,6 @@
 5 fel+boncolhat
 5 fel+bogárzik
 5 fel+bocsáthat
-5 fel+bír
 5 fel+bakol
 5 fel+araszol
 5 fel+állítódik
