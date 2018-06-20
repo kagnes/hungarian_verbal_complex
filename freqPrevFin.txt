@@ -7490,7 +7490,6 @@
 89 vissza+változtat
 89 vissza+csuk
 89 túl+szaporodik
-89 túl+órázik
 89 szét+tesz
 89 szét+kürtöl
 89 rá+pihen
@@ -18111,7 +18110,6 @@
 11 túl+töm
 11 túl+teljesíthet
 11 túl+stilizál
-11 túl+óráztat
 11 túl+költekezhet
 11 túl+fokoz
 11 túl+értékelődik
