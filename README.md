@@ -12,6 +12,8 @@ Two types of bare nominals (which are verb modifiers just like the verbal partic
 
 ## freqPrevFin.txt
 
+### Please visit [PrevLex](https://github.com/kagnes/prevlex) for a more up-to-date, comprehensive table of _verbal particle + verb_ combinations.
+
 This list is based on the 2.0.3 version of the Hungarian Gigaword Corpus. It contains _verbal particle + verb_ combinations occurring at least 5 times in HGC (as types). The measurement includes only finite verbs and only with immediately preverbal particle. It is checked manually. Frequent, wrong combinations (e.g. *át+kell* 'to through+must') are filtered.
 
 ## Reference
